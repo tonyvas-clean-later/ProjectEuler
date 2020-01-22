@@ -1,0 +1,207 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.1\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.1\lib\idea_rt.jar=52782:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\src\ProjectEuler\out\production\ProjectEuler com.company.Main
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+-5
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+Error: Input Out Of Range
+99
+Error: Input Out Of Range
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+g
+Error: Invalid Input Format
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+
+Error: Invalid Input Format
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+1
+Answer: 233168
+Calculated in 0ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+2
+Answer: 4613732
+Calculated in 0ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+3
+Answer: 6857
+Calculated in 715ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+4
+Answer: 906609
+Calculated in 30ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+5
+Answer: 232792560
+Calculated in 1838ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+6
+Answer: 25164150
+Calculated in 0ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+7
+Answer: 104743
+Calculated in 26ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+8
+Answer: 23514624000
+Calculated in 1ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+9
+Answer: 31875000
+Calculated in 3ms
+Project Euler Problems
+Select Which Problem to Run
+0. Exit
+1. Multiples of 3 And 5
+2. Even Fibonacci Numbers
+3. Largest Prime Factor
+4. Largest Palindrome Product
+5. Smallest Multiple
+6. Sum Square Difference
+7. 10001st Prime
+8. Largest Product in a Series
+9. Special Pythagorean Triplet
+0
+
+Process finished with exit code 0
